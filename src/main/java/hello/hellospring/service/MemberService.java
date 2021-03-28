@@ -11,7 +11,6 @@ import javax.swing.text.html.Option;
 import java.util.List;
 import java.util.Optional;
 
-@Service
 // @Component
 public class MemberService {
 
